@@ -1,6 +1,6 @@
 # Prompt
 
-Preciso que você faça o trabalho de um personal trainer especialista e me indique o treino ideal baseando-se nas variáveis e regras abaixo:
+Preciso que você faça o trabalho de um personal trainer especialista e me indique o treino ideal baseando-se nas variáveis e regras abaixo.
 
 # Variaveis
 
